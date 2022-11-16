@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 
-print("Saludos atodoelmundo desde Python3. Como estan?")
+print("todoelmundo abrazos desde Python2 o 3?. Como estan?")
