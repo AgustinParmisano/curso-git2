@@ -1,3 +1,4 @@
 #!/usr/bin/python3
 
-print("Atodoelmundo saludos desde Python3. Como estan?")
+print("HELLO WORLD!!")
+print("HOLA MUNDO EN INGLES!!")
